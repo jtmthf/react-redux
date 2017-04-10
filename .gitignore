@@ -6,3 +6,5 @@ lib
 .nyc_output
 coverage
 es
+es2015
+es2017
